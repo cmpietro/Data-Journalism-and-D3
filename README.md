@@ -1,7 +1,7 @@
 # Data-Journalism-and-D3
 D3 homework
 
-Due to loading in the CSV file, most browsers will fail to load unless run on a server.  Please use python -m http.server method to view this project. 
+Due to loading in the CSV file, most browsers will fail to load unless run on a server.  Please use python -m http.server method to view this project or this link: https://cmpietro.github.io/Data-Journalism-and-D3/
 
 This project was created to demonstrate use of D3 to visualize some 2014 state data, simulating a journalism article. 
 
